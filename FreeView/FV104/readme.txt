@@ -1,107 +1,87 @@
-"FreeView V1.04" Installation Procedure(for XP)
+Procedimiento de instalación de "FreeView V1.04" (para XP)
 
-1. This program can be performed under WIN2000 and XP now (not supported for Win98/Me).
-    You must have at least 10MB of available hard-disk space. This program has been tested on the PC with:
-    a. CPU: Celeron 1.8GHz, DDR DRAM:256MB, Hard disk 40GB (Recommended)
-    b. CPU: 800MHz PIII, DRAM: 128MB, Hard disk: 20GB (Good)
-    c. CPU: AMD K6 400MHz PIII, DRAM: 128MB, Hard disk: 20GB (Acceptable)
+1. Este programa se puede ejecutar en WIN2000 y XP actualmente (no es compatible con Win98/Me). Debe tener al menos 10 MB de espacio disponible en el disco duro. Este programa ha sido probado en una PC con:
+    a. CPU: Celeron 1.8GHz, DDR DRAM: 256MB, disco duro 40GB (recomendado).
+    b. CPU: 800MHz PIII, DRAM: 128MB, disco duro: 20GB (bueno).
+    c. CPU: AMD K6 400MHz PIII, DRAM: 128MB, disco duro: 20GB (aceptable).
 
-2. Before install this program. Please power off your oscilloscope.  And connect USB cable between PC and oscilloscope.
-   If you had installed any previous FreeView version. Please uninstall USB driver first 
-   by "Start->Settings->Control Panel->Add/Remove Programs".
-   And uninstall any previous FreeView before upgrading to V1.04.
-   
-3. Please unzip FV104.zip to  C:\ or any root directory.
-    a. We could find a folder "FV104" under C:\ or any root directory which the files been unzipped.
-    b. Double click "FV104", we could find installation program "Setup.exe".
-    c. Double click Setup.exe to start FreeView installation.
+2. Antes de instalar este programa, apague su osciloscopio y conecte el cable USB entre la PC y el osciloscopio. Si ha instalado alguna versión anterior de FreeView, desinstale primero el controlador USB mediante "Inicio->Configuración->Panel de control->Agregar o quitar programas". Además, desinstale cualquier versión anterior de FreeView antes de actualizar a V1.04.
 
-4. Please power on your oscilloscope, and change the interface to USB
-    a. Press Utility -> Interface Menu(F2), and then press F1 to select USB interface.
-    b. When you select USB interface, PC will find a new hardware device "XXX-XXXX"(for example) immediately.
-    c. Install software for "Your oscilloscope USB Converter": Select Automatic installation(I) and click "Next Step"(N).
-    d. Click "Continue"(C).
-    e. Click "Complete".
-    f. Install software for "Your oscilloscope USB Port Driver": Select Automatic installation(I) and click "Next Step"(N).
-    g. Click "Continue"(C).
-    h. Click "Complete".
+3. Descomprima FV104.zip en la unidad C:\ o en cualquier directorio raíz.
+    a. Deberíamos encontrar una carpeta "FV104" en C:\ o en cualquier directorio raíz donde se hayan descomprimido los archivos.
+    b. Haga doble clic en "FV104", encontrará el programa de instalación "Setup.exe".
+    c. Haga doble clic en Setup.exe para iniciar la instalación de FreeView.
 
-5. Execute FreeView.
+4. Encienda su osciloscopio y cambie la interfaz a USB.
+    a. Presione Utility -> Interface Menu(F2) y luego presione F1 para seleccionar la interfaz USB.
+    b. Cuando seleccione la interfaz USB, la PC encontrará inmediatamente un nuevo dispositivo de hardware "XXX-XXXX" (por ejemplo).
+    c. Instale el software para "Su convertidor USB de osciloscopio": seleccione Instalación automática(I) y haga clic en "Siguiente paso"(N).
+    d. Haga clic en "Continuar"(C).
+    e. Haga clic en "Completar".
+    f. Instale el software para "El controlador de puerto USB de su osciloscopio": seleccione Instalación automática(I) y haga clic en "Siguiente paso"(N).
+    g. Haga clic en "Continuar"(C).
+    h. Haga clic en "Completar".
 
-6. Click "File" and select "Connect", you could see the waveform updated continuously. 
+5. Ejecute FreeView.
 
-7. If you Select "Save/Print" under "File", you can save it to a file with bmp, jpg... format.
-   The printing function is ready in early version of V1.01.
+6. Haga clic en "Archivo" y seleccione "Conectar", podrá ver la forma de onda actualizándose continuamente.
+
+7. Si selecciona "Guardar/Imprimir" en "Archivo", puede guardarlo en un archivo con formato bmp, jpg, etc. La función de impresión está disponible en la versión anterior V1.01.
 
 ----------------------------------------------------------------------------------------------------
-"FreeView V1.04" Installation Procedure(for WIN2000)
+Procedimiento de instalación de "FreeView V1.04" (para WIN2000)
 
-1. This program can be performed under WIN2000 and XP now (not supported for Win98/Me).
-    You must have at least 10MB of available hard-disk space. This program has been tested on the PC with:
-    a. CPU: Celeron 1.8GHz, DDR DRAM:256MB, Hard disk 40GB (Recommended)
-    b. CPU: 800MHz PIII, DRAM: 128MB, Hard disk: 20GB (Good)
-    c. CPU: AMD K6 400MHz PIII, DRAM: 128MB, Hard disk: 20GB (Acceptable)
+1. Este programa se puede ejecutar en WIN2000 y XP actualmente (no es compatible con Win98/Me). Debe tener al menos 10 MB de espacio disponible en el disco duro. Este programa ha sido probado en una PC con:
+    a. CPU: Celeron 1.8GHz, DDR DRAM: 256MB, disco duro 40GB (recomendado).
+    b. CPU: 800MHz PIII, DRAM: 128MB, disco duro: 20GB (bueno).
+    c. CPU: AMD K6 400MHz PIII, DRAM: 128MB, disco duro: 20GB (aceptable).
 
-2. Before install this program. Please power off your oscilloscope.  And connect USB cable between PC and oscilloscope.
-   If you had installed FreeView V1.01. Please uninstall USB driver first 
-   by "Start->Settings->Control Panel->Add/Remove Programs".
-   And uninstall any previous FreeView before upgrading to V1.04.
+2. Antes de instalar este programa, apague su osciloscopio y conecte el cable USB entre la PC y el osciloscopio. Si ha instalado FreeView V1.01, desinstale primero el controlador USB mediante "Inicio->Configuración->Panel de control->Agregar o quitar programas". Además, desinstale cualquier versión anterior de FreeView antes de actualizar a V1.04.
 
-3. Please unzip FV104.zip to  C:\ or any root directory.
-    a. We could find a folder "FV104" under C:\ or any root directory which the files been unzipped.
-    b. Double click "FV104", we could find installation program "Setup.exe".
-    c. Double click Setup.exe to start FreeView installation.
+3. Descomprima FV104.zip en la unidad C:\ o en cualquier directorio raíz.
+    a. Deberíamos encontrar una carpeta "FV104" en C:\ o en cualquier directorio raíz donde se hayan descomprimido los archivos.
+    b. Haga doble clic en "FV104", encontrará el programa de instalación "Setup.exe".
+    c. Haga doble clic en Setup.exe para iniciar la instalación de FreeView.
 
-4. Please power on your oscilloscope, and change the interface to USB:
-    a. Press Utility -> Interface Menu(F2), and then use F1 to select USB interface.
-    b. When you select USB interface, PC will find a new hardware device "XXX-XXXX"(for example) immediately. 
-        And search the driver automatically.
-    c. If system can't find the path of driver during step (b). Please set the path to C:\WINNT\Temp\Driver".  
-       And click "confirm".
+4. Encienda su osciloscopio y cambie la interfaz a USB:
+    a. Presione Utility -> Interface Menu(F2) y luego use F1 para seleccionar la interfaz USB.
+    b. Cuando seleccione la interfaz USB, la PC encontrará inmediatamente un nuevo dispositivo de hardware "XXX-XXXX" (por ejemplo) y buscará automáticamente el controlador.
+    c. Si el sistema no puede encontrar la ruta del controlador durante el paso (b), configure la ruta en C:\WINNT\Temp\Driver". Luego haga clic en "Confirmar".
 
-5. Execute FreeView.
+5. Ejecute FreeView.
 
-6. Click "File" and select "Connect", you could see the waveform updated continuously.
+6. Haga clic en "Archivo" y seleccione "Conectar", podrá ver la forma de onda actualizándose continuamente.
 
-7. If you Select "Save/Print" under "File", you can save it to a file with bmp, jpg... format.
-   The printing function is ready in early version of V1.01.
-
-
-
+7. Si selecciona "Guardar/Imprimir" en "Archivo", puede guardarlo en un archivo con formato bmp, jpg, etc. La función de impresión está disponible en la versión anterior V1.01.
 
 ------------------------------------------------------------------------------------------------
-FreeView Version 1.03 & 1.04 has the following improvements:
+Las versiones 1.03 y 1.04 de FreeView tienen las siguientes mejoras:
 
-1. minor bugs fixed
-
-
+1. Corrección de errores menores.
 
 ------------------------------------------------------------------------------------------------
-FreeView Version 1.02 has the following improvements:
+La versión 1.02 de FreeView tiene las siguientes mejoras:
 
-1. This software can be installed and performed on non-administrator account
-
-
-------------------------------------------------------------------------------------------------
-FreeView Version 1.01 has the following improvements:
-
-1. The software installation is much more easy than V1.00.
-2. Add printing function.
-3. Add economic mode to save your printer's ink when printing.
-4. Bug fixed for .tif and .png format file saving.
-
-
+1. Este software se puede instalar y ejecutar en una cuenta de usuario no administrador.
 
 ------------------------------------------------------------------------------------------------
-Trouble Shooting
+La versión 1.01 de FreeView tiene las siguientes mejoras:
 
-(1). If your PC can't find a device named "XXX-XXX" after you changed your interface to USB.
-Please power off your oscilloscope for 5 seconds. And power on it again. The connection of USB will be reset.
+1. La instalación del software es mucho más fácil que en V1.00.
+2. Se agregó la función de impresión.
+3. Se agregó el modo económico para ahorrar tinta de la impresora al imprimir.
+4. Se corrigió un error al guardar archivos en formato .tif y .png.
 
-(2). If the waveform stop updating.
-1. Please change the interface type to RS232. After 5 seconds, change back to USB.
-   The connection of USB will be reset.
-2. Please select "Connect" of FreeView again.
+------------------------------------------------------------------------------------------------
+Solución de problemas
 
-(3). If some of the waveform was discontinuous.
-Please enlarge the window of FreeView. It's due to the resolution.
+(1). Si su PC no puede encontrar un dispositivo llamado "XXX-XXX" después de cambiar la interfaz a USB, apague su osciloscopio durante 5 segundos y luego enciéndalo nuevamente. La conexión USB se restablecerá.
+
+(2). Si la forma de onda deja de actualizarse.
+1. Cambie el tipo de interfaz a RS232. Después de 5 segundos, vuelva a cambiar a USB. La conexión USB se restablecerá.
+2. Seleccione nuevamente "Conectar" en FreeView.
+
+(3). Si alguna de las
+
+ formas de onda es discontinua.
+Aumente el tamaño de la ventana de FreeView. Esto se debe a la resolución.
